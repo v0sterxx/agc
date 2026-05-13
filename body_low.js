@@ -6,14 +6,14 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 // Paste Iklan Float Disini
 atOptions = {
-  'key' : '66e0e4e3dc880b0342686924fc4f5155',
+  'key' : '7b5af7dc0ad614081f71d61b12b5b532',
   'format' : 'iframe',
   'height' : 90,
   'width' : 728,
   'params' : {}
 };
 
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/66e0e4e3dc880b0342686924fc4f5155/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/7b5af7dc0ad614081f71d61b12b5b532/invoke.js"></scr' + 'ipt>');
 // Batas Iklan Float
 
 document.write('</div>');
@@ -70,14 +70,14 @@ document.write(`
 
 // Paste Iklan Popup Disini
 atOptions = {
-  'key' : '66e0e4e3dc880b0342686924fc4f5155',
+  'key' : '7b5af7dc0ad614081f71d61b12b5b532',
   'format' : 'iframe',
   'height' : 300,
   'width' : 300,
   'params' : {}
 };
 
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/66e0e4e3dc880b0342686924fc4f5155/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/7b5af7dc0ad614081f71d61b12b5b532/invoke.js"></scr' + 'ipt>');
 // Batas Iklan Popup
 
 document.write(`
