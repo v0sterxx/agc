@@ -11,7 +11,7 @@ atOptions = {
     'params' : {}
 };
 
-document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/66e0e4e3dc880b0342686924fc4f5155/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="//www.examinerashtrayquizmaster.com/66e0e4e3dc880b0342686924fc4f5155/invoke.js"></scr' + 'ipt>');
 
 // Batas Iklan
 
