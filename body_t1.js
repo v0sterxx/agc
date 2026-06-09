@@ -2,7 +2,7 @@ document.write('<div id="floatads" style="width:100%;margin:auto; text-align:cen
 document.write('<div style="text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto">');
 
 // Paste Iklan Disini
-
+document.write('<scr' + 'ipt src="https://examinerashtrayquizmaster.com/d7/bb/6c/d7bb6cffb9086a379244818c8f1445a6.js"></scr' + 'ipt>');
 
 // Script iklan utama
 atOptions = {
