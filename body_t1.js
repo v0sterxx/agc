@@ -3,8 +3,6 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 // Paste Iklan Disini
 
-// Script tambahan
-document.write('<scr' + 'ipt src="https://examinerashtrayquizmaster.com/d7/bb/6c/d7bb6cffb9086a379244818c8f1445a6.js"></scr' + 'ipt>');
 
 // Script iklan utama
 atOptions = {
